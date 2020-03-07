@@ -2,7 +2,7 @@
 
 My another project using Power BI Desktop. The purpose of this project is to find the value in Euro of different currency amounts.
 
-Data source: https://www.eestipank.ee/en/exchange-rates
+<i>Data source: https://www.eestipank.ee/en/exchange-rates</i>
 
 Used tables from data source: Table 0, Table 1
 
