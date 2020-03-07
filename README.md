@@ -1,6 +1,6 @@
 # Power-BI-Desktop2
 
-My another project using Power BI Desktop. The purpose of this project is to find the value in Euro of different currency amounts using the currency rates data from web source.
+My another project using Power BI Desktop. The purpose of this project is to find the value in Euro of different currency amounts in real time using the currency rates data from web source.
 
 <i>Data source: https://www.eestipank.ee/en/exchange-rates
 
